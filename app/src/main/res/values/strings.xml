@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IP Ping</string>
+    <string name="scroll_view">ScrollView for data</string>
+    <string name="add_button">Add IP Button</string>
+    <string name="pingPlay">Starts to ping the server</string>
+    <string name="pingStatus">Shows server ping status</string>
+    <string name="clockwise">ROTATE</string>
+    <string name="add">Add</string>
+    <string name="ip_address">IP Address...</string>
+    <string name="server_name">Server Name</string>
+    <string name="Delete">Delete list item</string>
+</resources>
